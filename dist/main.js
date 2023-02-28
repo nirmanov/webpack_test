@@ -1,0 +1,1 @@
+(()=>{"use strict";const o=(o,l)=>o+l,l=o=>3.14*o;console.log("a * PI:",l(6)),console.log("Sum:",o(1,2)),console.log("MyFn",l(4)),console.log(l(5)),console.log(o(1,2))})();
